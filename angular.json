@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-times-bomb"
+    }
+  },
+  "defaultProject": "angular-times-bomb",
+  "cli": {
+    "analytics": false
+  }
 }
